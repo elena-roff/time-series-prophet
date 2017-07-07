@@ -1,6 +1,6 @@
 # rossmann_TSA_forecasts
 
-This project is built using the data from [Rossmann competition](https://www.kaggle.com/c/rossmann-store-sales) hosted at Kaggle and published as a Jupyter notebook.
+This project is built using the data from [Rossmann competition](https://www.kaggle.com/c/rossmann-store-sales) hosted at Kaggle and then published for comfortable reading as the Jupyter notebook.
 
 Time Series Analysis & Forecasting
 
