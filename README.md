@@ -1,5 +1,7 @@
 # rossmann_TSA_forecasts
 
+This notebook is made using data from [Rossmann competition](https://www.kaggle.com/c/rossmann-store-sales) hosted at Kaggle. 
+
 Time Series Analysis & Forecasting
 
 - Exploratory Data Analysis
