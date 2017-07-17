@@ -9,7 +9,7 @@ Time Series Analysis & Forecasting
 - __Exploratory Data Analysis with Python__
 - __Time Series Analysis__ per store type and __Seasonal decomposition__
 - __Forecasting__ with [Prophet](https://github.com/facebookincubator/prophet)
-- __Predictive modeling with XGboost__
+- Predictive modeling with __XGboost__
 
 
 Thank you for reading!
